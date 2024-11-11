@@ -1,13 +1,13 @@
 ## Hi there, I am Apurwa ! 👋
 
-🌟 Professional Summary
-Experienced Business/Data Analyst with a strong background in data-driven decision-making, process optimization, and collaborative problem-solving. Skilled at transforming complex data into actionable insights to support business outcomes.
+## 🌟 Professional Summary
+## Experienced Business/Data Analyst with a strong background in data-driven decision-making, process optimization, and collaborative problem-solving. Skilled at transforming complex data into actionable insights to support business outcomes.
 
-🛠️ Key Skills and Tools
-Programming: Python, R, SQL, MATLAB
-Data Analysis: Exploratory Data Analysis (EDA), Data Wrangling, Statistical Analysis
-Visualization: Tableau, Power BI, Matplotlib, Seaborn
-Machine Learning: Logistic Regression, Decision Trees, Random Forest, XGBoost
+## 🛠️ Key Skills and Tools
+## Programming: Python, R, SQL, MATLAB
+##  Data Analysis: Exploratory Data Analysis (EDA), Data Wrangling, Statistical Analysis
+## Visualization: Tableau, Power BI, Matplotlib, Seaborn
+## Machine Learning: Logistic Regression, Decision Trees, Random Forest, XGBoost
 
 <!--
 **apurwasontakke/apurwasontakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
