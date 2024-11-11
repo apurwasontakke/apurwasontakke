@@ -1,5 +1,7 @@
 ## 👋 Hi there, I am Apurwa ! 👋
 
+![image](https://github.com/user-attachments/assets/baeef34f-3cb8-44fb-b389-70901c0a76c7)
+
 👀 Passionate Data Explorer: I thrive on uncovering trends and insights in data to drive meaningful change and business solutions.
 
 🌱 Always Learning: Right now, I’m enhancing my expertise in Python, SQL, machine learning, and cloud platforms like AWS and Azure to build robust data systems and scalable models.
