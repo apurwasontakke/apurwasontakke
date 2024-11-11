@@ -1,11 +1,10 @@
 ## Hi there, I am Apurwa ! 👋
 
 ## 🌟 Professional Summary
-## Experienced Business/Data Analyst with a strong background in data-driven decision-making, process optimization, and collaborative problem-solving. Skilled at transforming complex data into actionable insights to support business outcomes.
+Experienced Business/Data Analyst with a strong background in data-driven decision-making, process optimization, and collaborative problem-solving. Skilled at transforming complex data into actionable insights to support business outcomes.
 
 ## 🛠️ Key Skills and Tools
-
-## Programming Languages	: Python, R, SQL, MATLAB, HTML
+Programming Languages	: Python, R, SQL, MATLAB, HTML
 Libraries	: Pandas, NumPy, Scikit-learn, Plotly, Matplotlib, Keras, PyTorch, NLTK, TensorFlow
 Data Analysis	: Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis, Data Wrangling
 BI & Visualization Tools	: Tableau, PowerBI, Advanced Excel (pivot tables, vlookup), Looker, QlikView, Smartsheet
