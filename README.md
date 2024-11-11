@@ -1,6 +1,6 @@
-## 👋 Hi there, I am Apurwa ! 👋
+![image](https://github.com/user-attachments/assets/236d956c-35e8-4464-ac69-c587661f8d7d)
 
-![image](https://github.com/user-attachments/assets/baeef34f-3cb8-44fb-b389-70901c0a76c7)
+## 👋 Hi there, I am Apurwa ! 👋
 
 👀 Passionate Data Explorer: I thrive on uncovering trends and insights in data to drive meaningful change and business solutions.
 
